@@ -4,7 +4,7 @@
   "description": "A real-time project with Front(simple JS) and Back(NodeJs, Feathers.JS and Socket.io template.",
   "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node Server/app"
   },
   "repository": {
     "type": "git",

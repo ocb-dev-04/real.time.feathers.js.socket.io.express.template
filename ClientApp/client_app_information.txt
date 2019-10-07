@@ -1,0 +1,3 @@
+here you can use vanilla JS or SPA Framework (ReactJs, Vue, Angular, etc...)
+
+for this example, i use basic fetch request with vanilla JS
